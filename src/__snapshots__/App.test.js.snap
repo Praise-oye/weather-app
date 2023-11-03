@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyComponent renders correctly with data from API 1`] = `
+<div
+  className="container"
+>
+  <input
+    className="input"
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="Enter city..."
+    value=""
+  />
+  <div>
+    <h1>
+      Welcome to Weather App! Enter your city
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div
+  className="container"
+>
+  <input
+    className="input"
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="Enter city..."
+    value=""
+  />
+  <div>
+    <h1>
+      Welcome to Weather App! Enter your city
+    </h1>
+  </div>
+</div>
+`;
